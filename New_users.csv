@@ -1,0 +1,3 @@
+Name,Surname, samAccountName,ParentOU, Group, Password, EmailAddress
+Ivan,Ivanov,dean,"CN=Users,DC=faculty,DC=ru",dekanat, Pass327, ivan.ru
+Dima,Sobolev,zav,"CN=Users,DC=faculty,DC=ru",teachers, Pass3277, dima.ru
